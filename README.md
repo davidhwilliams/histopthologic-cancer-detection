@@ -22,13 +22,4 @@ The model's performance is evaluated using the ROC AUC (Receiver Operating Chara
 ## Getting Started
 
 1. Download the dataset from [Kaggle](https://www.kaggle.com/competitions/histopathologic-cancer-detection/data)
-2. Install the required dependencies:
-
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import torch
-```
-
-3. Run the `kaggle-cancer.ipynb` notebook to train and evaluate the model
+2. Run the `kaggle-cancer.ipynb` notebook to train and evaluate the model
